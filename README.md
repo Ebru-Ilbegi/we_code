@@ -7,3 +7,7 @@ bu repoda ödev içerikleri şu şekilde;
 temel matematik işlemleri, kullanıcı girdisi alma, string işlemleri (kelime ayırma, 
 büyük/küçük harf dönüşümü) ve string indeksleme ile çift/tek sayıları ayırma gibi 
 temel programlama becerilerini kapsıyor.
+
+👉Ödev_2 : if-elif-else koşul yapıları, len() fonksiyonu, while döngüsü ve kullanıcı 
+etkileşimi için input() kullanılarak temel Python kontrol mekanizmaları uygulandı.
+
