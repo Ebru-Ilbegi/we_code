@@ -11,3 +11,6 @@ temel programlama becerilerini kapsıyor.
 👉Ödev_2 : if-elif-else koşul yapıları, len() fonksiyonu, while döngüsü ve kullanıcı 
 etkileşimi için input() kullanılarak temel Python kontrol mekanizmaları uygulandı.
 
+👉Ödev_3 : def fonksiyon yapıları, matematiksel hesaplamalar, format() metodu ve 
+fonksiyon içinde fonksiyon kullanımıyla Python'da modüler programlama temelleri uygulandı.
+
