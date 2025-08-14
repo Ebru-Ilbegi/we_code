@@ -1,7 +1,8 @@
+◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽
 ⭐ We-Code 2.0 ✨
 
-🌠 Kodluyoruz ile aldığım we-code akademisinde verilen ödevlerimi paylaştığım 
-bu repoda ödev içerikleri şu şekilde;
+🌠 Kodluyoruz 'W-Code 2.0 Veri Bilimi ve Yapay Zeka Atölyesi'nde verilen ödevlerimi 
+paylaştığım bu repoda ödev içerikleri şu şekilde;
 
 👉Ödev_1 : Python'da değişken dönüşümleri, karşılaştırma ve mantıksal operatörler, 
 temel matematik işlemleri, kullanıcı girdisi alma, string işlemleri (kelime ayırma, 
@@ -18,3 +19,4 @@ fonksiyon içinde fonksiyon kullanımıyla Python'da modüler programlama temell
 değerlere erişmek, belirli koşullara göre yeni bir liste oluşturmak ve enumerate fonksiyonunu
 kullanarak bir döngüyü daha verimli şekilde yazma işlemleri yapıldı.
 
+◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽
