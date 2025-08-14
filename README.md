@@ -14,3 +14,7 @@ etkileşimi için input() kullanılarak temel Python kontrol mekanizmaları uygu
 👉Ödev_3 : def fonksiyon yapıları, matematiksel hesaplamalar, format() metodu ve 
 fonksiyon içinde fonksiyon kullanımıyla Python'da modüler programlama temelleri uygulandı.
 
+👉Ödev_3 : Bir liste üzerinde indexing ve slicing işlemlerini uygulayarak belirli 
+değerlere erişmek, belirli koşullara göre yeni bir liste oluşturmak ve enumerate fonksiyonunu
+kullanarak bir döngüyü daha verimli şekilde yazma işlemleri yapıldı.
+
