@@ -20,4 +20,8 @@ fonksiyon içinde fonksiyon kullanımıyla Python'da modüler programlama temell
 değerlere erişmek, belirli koşullara göre yeni bir liste oluşturmak ve enumerate fonksiyonunu
 kullanarak bir döngüyü daha verimli şekilde yazma işlemleri yapıldı.
 
+👉Ödev_5 : Öğrenci notlarını saklamak ve yönetmek için Python sözlükleri kullanıldı; 
+kullanıcılar öğrenci adı ve ders bilgisi girerek not sorgulama, güncelleme ve yeni kayıt ekleme 
+işlemleri yapabilir. Ayrıca sözlük yapısı üzerinde temel işlemler uygulandı.
+
 ◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽
