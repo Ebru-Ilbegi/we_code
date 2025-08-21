@@ -24,4 +24,8 @@ kullanarak bir döngüyü daha verimli şekilde yazma işlemleri yapıldı.
 kullanıcılar öğrenci adı ve ders bilgisi girerek not sorgulama, güncelleme ve yeni kayıt ekleme 
 işlemleri yapabilir. Ayrıca sözlük yapısı üzerinde temel işlemler uygulandı.
 
+👉Ödev_6 : NumPy kütüphanesi kullanılarak çok boyutlu array operasyonları gerçekleştirildi.
+Arrayler üzerinde boyut işlemleri , indexleme işlemleri ve slicing işlemleri gerçekleştirildi. 
+Ayrıca arrayler üzerinde temel işlemler uygulandı.
+
 ◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽
