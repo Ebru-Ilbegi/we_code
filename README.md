@@ -28,4 +28,8 @@ işlemleri yapabilir. Ayrıca sözlük yapısı üzerinde temel işlemler uygula
 Arrayler üzerinde boyut işlemleri , indexleme işlemleri ve slicing işlemleri gerçekleştirildi. 
 Ayrıca arrayler üzerinde temel işlemler uygulandı.
 
+👉Ödev_7 : Pandas kütüphanesi kullanılarak verilen sözlük yapısı bir DataFrame'e dönüştürülmüş 
+ve belirtilen aralıklara göre veri seçim işlemleri gerçekleştirilmiştir. Ayrıca, kategori bazlı 
+filtreleme ve fiyat koşullarına göre ilgili ürünlerin tespiti yapıldı.
+
 ◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽
