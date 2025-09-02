@@ -32,4 +32,9 @@ Ayrıca arrayler üzerinde temel işlemler uygulandı.
 ve belirtilen aralıklara göre veri seçim işlemleri gerçekleştirilmiştir. Ayrıca, kategori bazlı 
 filtreleme ve fiyat koşullarına göre ilgili ürünlerin tespiti yapıldı.
 
+👉Ödev_8 : Paylaşılan Student_Performance veri setinde görselleştirme ve analiz işlemleri yapıldı.
+
+👉Ödev_9 :Seçilen bir veri seti üzerinde analiz ve görselleştirme işlemleri yapıldı.Seçilen 
+veri seti temizlenip düzenlendi ardından görselleştirildi.
+
 ◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽
