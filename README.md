@@ -37,4 +37,6 @@ filtreleme ve fiyat koşullarına göre ilgili ürünlerin tespiti yapıldı.
 👉Ödev_9 :Seçilen bir veri seti üzerinde analiz ve görselleştirme işlemleri yapıldı.Seçilen 
 veri seti temizlenip düzenlendi ardından görselleştirildi.
 
+👉Bitirme Projesi : Suyun Bilinçli Kullanımı ile ilgili veri analizi çalışması yapıldı.
+
 ◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽◽
